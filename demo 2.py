@@ -16,5 +16,3 @@ items=["Banana","Apple","Cat"]
 
 d={"name:sravya"}
 print(d)
-print(d)
-print(d)
